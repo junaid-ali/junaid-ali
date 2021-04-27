@@ -1,4 +1,4 @@
-Cloud Consultant @ Hewlett Packard Enterprise
+Senior DevOps Engineer @ TitanHQ
 
 <!--
 **junaid-ali/junaid-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
